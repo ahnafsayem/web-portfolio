@@ -1,4 +1,5 @@
 body{
+    margin: 0%;
     font-family: 'Petrona', serif;
 }
 h1{
@@ -14,4 +15,19 @@ h1{
     float: left;
     padding: 3%;
     margin-left: 2%;
+}
+.top{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(67, 163, 207), darkblue);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10%;
+    font-weight: 700;
 }
