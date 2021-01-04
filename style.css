@@ -5,16 +5,26 @@ body{
 h1{
     font-size:50px;
 }
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
 .owner-name{
+    font-size: 80px;
     color: rgb(214, 77, 23);
 }
-.intro01{
-    text-align: left;
-    width: 40%;
+p{
+    font-size: 20px;
+}
+.intro{
     text-align: justify;
+    width: 40%;
     float: left;
     padding: 3%;
     margin-left: 2%;
+    margin-right: 2%;
 }
 .top{
     background-image: url("images/top-banner.png");
@@ -22,6 +32,7 @@ h1{
 }
 section{
     height: 400px;
+    padding-bottom: 200px;
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +41,5 @@ section{
     padding: 10px 20px;
     border-radius: 10%;
     font-weight: 700;
+    font-size: 20px;
 }
