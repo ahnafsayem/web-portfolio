@@ -41,6 +41,7 @@ section{
     font-size: 20px;
 }
 .dream{
-    background-image: url("images/top-banner.png");
+    background-image: url("images/dream-bg.png");
     background-repeat:no-repeat;
+    background-position: right;
 }
